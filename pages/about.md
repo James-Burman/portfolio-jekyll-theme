@@ -6,4 +6,7 @@ permalink: /about
 
 # James's Portfolio
 
-Isn't it great.
+Name: James
+Location: England
+Education: Masters degree in Physics
+Interests: Football, F1
