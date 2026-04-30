@@ -1,9 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about
 ---
 
 # James's Portfolio
 
-Isn't it great.
+Name: James Burman
+Location: England
+Education: Masters in Physics
+Interests: Football, F1
